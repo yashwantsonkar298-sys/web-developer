@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html long="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0'>
+   <title>HTML TABLE </title>
+</head>
+   <!-- TABLE-->
+<table border="1">
+   <caption><stronge>Student Data</strong></caption> 
+   <!--thead-->
+   <thead>
+   <tr>
+      <tr>Firstname</th>
+      <tr>Lastname</th>
+      <tr>Age</tr>
+   </tr>
+   </head>
+   <!-- table body-->
+   <tbody
+   <tr>
+      <td>John</td>
+      <td>Doe</td>
+      <td>25>/td>
+   </tr>
+   <tr>
+       <td>Marry</td>
+       <td>Moe</td>
+       <td>50</td>
+   </tr>
+
+   <tr>
+       <td>July</td>
+       <td>Dooldey</td>
+       <td>30</td>
+   </tr>
+   </tbody>
+<t/table>
+<br>   
+
+
